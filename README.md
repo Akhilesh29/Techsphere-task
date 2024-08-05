@@ -1,4 +1,4 @@
-This is a  Node.js server for a Trello like project managemnet web application. The branches are sorted in the order they were coded.
+This is a  Node.js server for a Trello like project management web application. The branches are sorted in the order they were coded.
 
 ## Stack
 
